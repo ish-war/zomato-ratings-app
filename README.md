@@ -27,6 +27,7 @@ This project successfully developed a robust machine learning model to predict Z
 
 Restaurant owners can use the predictive model to understand factors influencing their ratings and take informed actions to enhance their service quality.Overall, this project provides a valuable tool for Zomato restaurants to predict and improve their ratings, ultimately contributing to better customer experiences and business growth.
 
+## Web Development Image
 ![image](https://github.com/user-attachments/assets/8f901841-cc50-4b7c-85c3-a051af69475a)
 
 
