@@ -1,5 +1,8 @@
 # zomato-ratings-app
 
+## Web Development Image
+![image](https://github.com/user-attachments/assets/8f901841-cc50-4b7c-85c3-a051af69475a)
+
 ## Objective
 
 The main agenda of this project is to:
@@ -27,7 +30,13 @@ This project successfully developed a robust machine learning model to predict Z
 
 Restaurant owners can use the predictive model to understand factors influencing their ratings and take informed actions to enhance their service quality.Overall, this project provides a valuable tool for Zomato restaurants to predict and improve their ratings, ultimately contributing to better customer experiences and business growth.
 
-## Web Development Image
-![image](https://github.com/user-attachments/assets/8f901841-cc50-4b7c-85c3-a051af69475a)
+## EDA
+### top 10 famous restaurants in Bengaluru
+![image](https://github.com/user-attachments/assets/2688a015-37f5-426b-ac28-e84c25a912cc)
 
+### prior table bookings rate
+![image](https://github.com/user-attachments/assets/828bd3a2-e608-40fa-8e4e-8e37c4b2b284)
+
+### distribution of online orders ratings
+![image](https://github.com/user-attachments/assets/62a304a0-f193-46bc-b4d8-536804cfd802)
 
